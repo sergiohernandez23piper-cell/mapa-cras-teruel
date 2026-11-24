@@ -1,0 +1,1 @@
+Pon aquí las fotos, una carpeta por centro (p. ej. fotos/turia/fachada.jpg). Redimensiónalas a unos 1200 px de ancho. Luego descríbelas en data/fotos.json.

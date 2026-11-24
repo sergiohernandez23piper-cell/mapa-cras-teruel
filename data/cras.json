@@ -1,0 +1,498 @@
+[
+ {
+  "id": "teruel-uno",
+  "nombre": "CRA Teruel Uno",
+  "tipo": "CRA",
+  "sede": "Perales del Alfambra",
+  "localidades": [
+   "Alfambra",
+   "Argente",
+   "Camañas",
+   "Galve",
+   "Pancrudo",
+   "Perales del Alfambra",
+   "Visiedo"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Primer CRA de Aragón. Agrupa 11 municipios; tiene aulas abiertas en 7 (cerradas: Escorihuela, Fuentes Calientes, Orrios y Rillo). Pancrudo se deduce por eliminación: verificar. Dirección: C/ Frontón 6, 44163 Perales del Alfambra. Tel. 978 775 282.",
+  "web": "https://crateruel1.catedu.es/",
+  "fuente": "https://crateruel1.catedu.es/inicio/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "turia",
+  "nombre": "CRA Turia",
+  "tipo": "CRA",
+  "sede": "San Blas",
+  "localidades": [
+   "Caudé",
+   "San Blas",
+   "Villalba",
+   "Villaspesa",
+   "Celadas",
+   "Riodeva",
+   "Villastar",
+   "Villel"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Caudé, San Blas, Villalba y Villaspesa son barrios de Teruel capital. Dirección: La Iglesia s/n, 44195 San Blas. Tel. 978 617 557.",
+  "web": "https://craturia.catedu.es/",
+  "fuente": "https://craturia.catedu.es/presentacion/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "somontano-bajo-aragon",
+  "nombre": "CRA Somontano Bajo Aragón",
+  "tipo": "CRA",
+  "sede": "La Mata de los Olmos",
+  "localidades": [
+   "Berge",
+   "Cañizar del Olivar",
+   "Ejulve",
+   "Estercuel",
+   "La Mata de los Olmos",
+   "Los Olmos",
+   "Molinos"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Siete pueblos del noreste de la provincia.",
+  "web": "https://crasomontanobajoaragon.catedu.es/",
+  "fuente": "https://crasomontanobajoaragon.catedu.es/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "muniesa",
+  "nombre": "CRA Muniesa",
+  "tipo": "CRA",
+  "sede": "Muniesa",
+  "localidades": [
+   "Alacón",
+   "Loscos",
+   "Muniesa",
+   "Oliete"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Pendiente de verificar",
+  "web": "https://cramuniesa.wordpress.com/",
+  "fuente": "https://cramuniesa.wordpress.com/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "sierra-de-albarracin",
+  "nombre": "CRA Sierra de Albarracín",
+  "tipo": "CRA",
+  "sede": "Tramacastilla",
+  "localidades": [
+   "Royuela",
+   "Torres de Albarracín",
+   "Noguera de Albarracín",
+   "Tramacastilla",
+   "Griegos",
+   "Guadalaviar"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Fuente secundaria (c. 2022): verificar localidades con el centro.",
+  "web": null,
+  "fuente": "https://plazasprofesores.com/centros-primaria/cra-sierra-de-albarracin/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "albarracin",
+  "nombre": "CRA de Albarracín",
+  "tipo": "CRA",
+  "sede": "Albarracín",
+  "localidades": [
+   "Albarracín",
+   "Gea de Albarracín"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Desde el curso 2016-17 solo integra Albarracín y Gea de Albarracín.",
+  "web": "https://craalbarracin.catedu.es/",
+  "fuente": "https://craalbarracin.catedu.es/informacion-general/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "bronchales-orihuela",
+  "nombre": "CRA Bronchales-Orihuela",
+  "tipo": "CRA",
+  "sede": "Orihuela del Tremedal",
+  "localidades": [
+   "Orihuela del Tremedal",
+   "Bronchales"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Creado en 2016 (Decreto 82/2016) al separarse del CRA de Albarracín.",
+  "web": null,
+  "fuente": "https://crietcalamocha.catedu.es/informacion-general-2/criet-de-calamocha/documentos/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "eras-del-jiloca",
+  "nombre": "CRA Eras del Jiloca",
+  "tipo": "CRA",
+  "sede": "El Poyo del Cid",
+  "localidades": [
+   "El Poyo del Cid",
+   "Báguena"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Pendiente de verificar",
+  "web": null,
+  "fuente": "https://crietcalamocha.catedu.es/informacion-general-2/criet-de-calamocha/documentos/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "alto-maestrazgo",
+  "nombre": "CRA Alto Maestrazgo",
+  "tipo": "CRA",
+  "sede": "Cantavieja",
+  "localidades": [
+   "Cantavieja",
+   "Fortanete",
+   "La Iglesuela del Cid",
+   "Villarluengo"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "El plan de acogida 2023-24 habla de cinco localidades pero solo se leen cuatro: verificar la quinta.",
+  "web": "https://craaltomaestrazgo.catedu.es/",
+  "fuente": "https://craaltomaestrazgo.catedu.es/wp-content/uploads/sites/184/2024/04/Plan-de-Acogida-2023-2024.pdf",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "algars",
+  "nombre": "CRA Algars",
+  "tipo": "CRA",
+  "sede": "Cretas",
+  "localidades": [
+   "Cretas",
+   "Beceite",
+   "Lledó"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Pendiente de verificar",
+  "web": null,
+  "fuente": "https://www.lacomarca.net/bajo-aragon-historico-tiene-vacantes-10-plazas-auxiliares-educacion-especial-zona-rural-tambien-hay-ninos-con-necesidades/amp/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "alifara",
+  "nombre": "CRA Alifara",
+  "tipo": "CRA",
+  "sede": "La Fresneda",
+  "localidades": [
+   "La Fresneda",
+   "La Portellada",
+   "Ráfales"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Una fuente de 2016 añade Valjunquera: verificar.",
+  "web": null,
+  "fuente": "https://atencioncomunitaria.aragon.es/wp-content/uploads/2024/10/CS-Valderrobres-2024.pdf",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "tastavins",
+  "nombre": "CRA Tastavins",
+  "tipo": "CRA",
+  "sede": "Peñarroya de Tastavins",
+  "localidades": [
+   "Peñarroya de Tastavins",
+   "Fuentespalda",
+   "Monroyo"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Pendiente de verificar",
+  "web": null,
+  "fuente": "https://atencioncomunitaria.aragon.es/wp-content/uploads/2024/10/CS-Valderrobres-2024.pdf",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "matarranya",
+  "nombre": "CRA Matarranya",
+  "tipo": "CRA",
+  "sede": "Calaceite",
+  "localidades": [
+   "Calaceite",
+   "Mazaleón",
+   "Valdeltormo"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Pendiente de verificar",
+  "web": null,
+  "fuente": "https://www.dpteruel.es/DPTweb/tag/centros-escolares/feed/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "olea",
+  "nombre": "CRA Olea",
+  "tipo": "CRA",
+  "sede": "Castellote",
+  "localidades": [
+   "Castellote"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Seis colegios integran la agrupación; solo la sede está confirmada. Resto de localidades pendiente de verificar.",
+  "web": null,
+  "fuente": "https://www.lacomarca.net/cubiertas-solo-4-10-plazas-vacantes-auxiliares-educacion-especial-bajo-aragon-historico/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "maestrazgo-gudar",
+  "nombre": "CRA Maestrazgo-Gúdar",
+  "tipo": "CRA",
+  "sede": "Mosqueruela",
+  "localidades": [
+   "Mosqueruela",
+   "Linares de Mora"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Solo sede y Linares de Mora confirmadas. Resto pendiente de verificar.",
+  "web": null,
+  "fuente": "https://www.dpteruel.es/DPTweb/tag/centros-escolares/feed/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "bajo-martin",
+  "nombre": "CRA Bajo Martín",
+  "tipo": "CRA",
+  "sede": "La Puebla de Híjar",
+  "localidades": [
+   "La Puebla de Híjar",
+   "Urrea de Gaén",
+   "Vinaceite"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Localidades parciales: verificar el resto.",
+  "web": null,
+  "fuente": "https://www.dpteruel.es/DPTweb/tag/centros-escolares/feed/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "campo-de-bello",
+  "nombre": "CRA Campo de Bello",
+  "tipo": "CRA",
+  "sede": "Bello",
+  "localidades": [
+   "Bello",
+   "Odón"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Localidades parciales: verificar el resto.",
+  "web": null,
+  "fuente": "https://www.dpteruel.es/DPTweb/tag/centros-escolares/feed/",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "cuna-del-jiloca",
+  "nombre": "CRA Cuna del Jiloca",
+  "tipo": "CRA",
+  "sede": "Santa Eulalia del Campo",
+  "localidades": [
+   "Santa Eulalia del Campo",
+   "Villafranca del Campo"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "En 2015 se integró en él el CRA Alto Jiloca (sede Villafranca del Campo). Verificar localidades actuales.",
+  "web": "https://cracunadeljiloca.catedu.es/",
+  "fuente": "https://cracunadeljiloca.catedu.es/wp-content/uploads/2021/04/PEC_2015.pdf",
+  "estado": "Localidades según la fuente indicada; verificar con el centro"
+ },
+ {
+  "id": "arino-alloza",
+  "nombre": "CRA Ariño-Alloza",
+  "tipo": "CRA",
+  "sede": "Ariño",
+  "localidades": [
+   "Ariño"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "goya",
+  "nombre": "CRA Goya",
+  "tipo": "CRA",
+  "sede": "Caminreal",
+  "localidades": [
+   "Caminreal"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "martin-del-rio",
+  "nombre": "CRA de Martín del Río",
+  "tipo": "CRA",
+  "sede": "Martín del Río",
+  "localidades": [
+   "Martín del Río"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "mezquin",
+  "nombre": "CRA del Mezquín",
+  "tipo": "CRA",
+  "sede": "Castelserás",
+  "localidades": [
+   "Castelserás"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "palmira-pla",
+  "nombre": "CRA Palmira Plá",
+  "tipo": "CRA",
+  "sede": "Cedrillas",
+  "localidades": [
+   "Cedrillas"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "pablo-antonio-crespo",
+  "nombre": "CRA Pablo Antonio Crespo",
+  "tipo": "CRA",
+  "sede": "Aliaga",
+  "localidades": [
+   "Aliaga"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "portico-de-aragon",
+  "nombre": "CRA Pórtico de Aragón",
+  "tipo": "CRA",
+  "sede": "Rubielos de Mora",
+  "localidades": [
+   "Rubielos de Mora"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "regallo",
+  "nombre": "CRA El Regallo",
+  "tipo": "CRA",
+  "sede": "Puigmoreno",
+  "localidades": [
+   "Puigmoreno"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "javalambre",
+  "nombre": "CRA Javalambre",
+  "tipo": "CRA",
+  "sede": "Manzanera",
+  "localidades": [
+   "Manzanera"
+  ],
+  "cursos": "Educación Infantil (2.º ciclo) y Educación Primaria (definición general del modelo CRA; pendiente de verificar en cada centro)",
+  "servicios": "Pendiente de verificar",
+  "info": "Existe como CRA de la provincia (listados oficiales de centros). Localidades que lo forman: pendiente de verificar.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/315919/2+DATOS+TIEMPOS+ESCOLARES.pdf/3cd6574d-b567-2831-03f1-0d2905c18400?t=1565682702403",
+  "estado": "Solo sede confirmada"
+ },
+ {
+  "id": "crie-albarracin",
+  "nombre": "CRIE Albarracín",
+  "tipo": "CRIE",
+  "sede": "Albarracín",
+  "localidades": [
+   "Albarracín"
+  ],
+  "cursos": "Estancias de convivencia para alumnado de 5.º y 6.º de Primaria de escuelas rurales (excepcionalmente 4.º), según el programa de 2017-18; pendiente de verificar el curso actual",
+  "servicios": "Pendiente de verificar",
+  "info": "Centro Rural de Innovación Educativa de Teruel. Albarracín y Alcorisa funcionan desde 1983 y Calamocha desde 1994.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/0/CSVYH3DXIE6JQ190XFIL+RESOLUCI%C3%93N+DEFINITIVA+programa+CRIES.pdf/5eef0f93-f7a3-e89d-4d09-09d6394a4cdd?t=1761203513336",
+  "estado": "Confirmado en la resolución del programa CRIE 2025-26"
+ },
+ {
+  "id": "crie-alcorisa",
+  "nombre": "CRIE Alcorisa",
+  "tipo": "CRIE",
+  "sede": "Alcorisa",
+  "localidades": [
+   "Alcorisa"
+  ],
+  "cursos": "Estancias de convivencia para alumnado de 5.º y 6.º de Primaria de escuelas rurales (excepcionalmente 4.º), según el programa de 2017-18; pendiente de verificar el curso actual",
+  "servicios": "Pendiente de verificar",
+  "info": "Centro Rural de Innovación Educativa de Teruel. Albarracín y Alcorisa funcionan desde 1983 y Calamocha desde 1994.",
+  "web": null,
+  "fuente": "https://educa.aragon.es/documents/20126/0/CSVYH3DXIE6JQ190XFIL+RESOLUCI%C3%93N+DEFINITIVA+programa+CRIES.pdf/5eef0f93-f7a3-e89d-4d09-09d6394a4cdd?t=1761203513336",
+  "estado": "Confirmado en la resolución del programa CRIE 2025-26"
+ },
+ {
+  "id": "crie-calamocha",
+  "nombre": "CRIE Calamocha",
+  "tipo": "CRIE",
+  "sede": "Calamocha",
+  "localidades": [
+   "Calamocha"
+  ],
+  "cursos": "Estancias de convivencia para alumnado de 5.º y 6.º de Primaria de escuelas rurales (excepcionalmente 4.º), según el programa de 2017-18; pendiente de verificar el curso actual",
+  "servicios": "Pendiente de verificar",
+  "info": "Centro Rural de Innovación Educativa de Teruel. Albarracín y Alcorisa funcionan desde 1983 y Calamocha desde 1994.",
+  "web": "https://crietcalamocha.catedu.es/",
+  "fuente": "https://educa.aragon.es/documents/20126/0/CSVYH3DXIE6JQ190XFIL+RESOLUCI%C3%93N+DEFINITIVA+programa+CRIES.pdf/5eef0f93-f7a3-e89d-4d09-09d6394a4cdd?t=1761203513336",
+  "estado": "Confirmado en la resolución del programa CRIE 2025-26"
+ }
+]
