@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa de los CRA y CRIE de Teruel</title>
+<meta name="description" content="Mapa interactivo de los Colegios Rurales Agrupados y Centros Rurales de Innovación Educativa de la provincia de Teruel.">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<header>
+  <h1>Escuelas rurales de Teruel</h1>
+  <nav>
+    <a href="#mapa" data-v="mapa">Mapa</a>
+    <a href="#info" data-v="info">Información</a>
+    <a href="#fotos" data-v="fotos">Fotografías</a>
+  </nav>
+</header>
+
+<main id="v-mapa">
+  <section id="lateral" aria-label="Centros">
+    <input id="buscar" type="search" placeholder="Buscar pueblo o centro" aria-label="Buscar pueblo o centro">
+    <div class="filtros" role="group" aria-label="Filtrar por tipo">
+      <button data-t="todos" aria-pressed="true">Todos</button>
+      <button data-t="CRA" aria-pressed="false">CRA</button>
+      <button data-t="CRIE" aria-pressed="false">CRIE</button>
+    </div>
+    <p class="clave"><span class="pin" style="--c:#555"></span> localidad <span class="pin sede" style="--c:#555"></span> sede <span class="pin crie"></span> CRIE</p>
+    <ul id="lista"></ul>
+  </section>
+  <div id="map" aria-label="Mapa de la provincia de Teruel"></div>
+  <aside id="ficha" hidden></aside>
+</main>
+
+<main id="v-info" class="texto" hidden>
+  <h2>Información general</h2>
+  <p>Un <strong>Colegio Rural Agrupado (CRA)</strong> es un único centro educativo con aulas repartidas por varios pueblos cercanos; una de las localidades, la sede o cabecera, concentra la dirección y la gestión. En la provincia de Teruel los primeros CRA se crearon en el curso 1988-89.</p>
+  <p>Los <strong>Centros Rurales de Innovación Educativa (CRIE)</strong> complementan la escuela rural con estancias de convivencia para el alumnado de los pueblos. En Teruel hay tres: Albarracín, Alcorisa y Calamocha.</p>
+  <h3>Cómo leer el mapa</h3>
+  <p>Cada CRA tiene su color. Los pueblos del mismo CRA y las carreteras que los unen con la sede comparten ese color. Los CRIE se marcan con un cuadrado negro de borde amarillo.</p>
+  <h3>Calidad de los datos</h3>
+  <p>No se inventa información: lo que no consta en una fuente figura como «Pendiente de verificar». Cada ficha indica su fuente. Las localidades con coordenadas «aproximadas» aún no se han comprobado y las que no tienen coordenadas no se dibujan en el mapa, pero aparecen en la ficha.</p>
+  <p>Mapa base: © colaboradores de <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>. Rutas: OSRM sobre datos de OpenStreetMap.</p>
+</main>
+
+<main id="v-fotos" class="texto" hidden>
+  <h2>Fotografías</h2>
+  <div id="galeria"></div>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
